@@ -1,7 +1,5 @@
 # IS362_Project1
 
-![alt text](screenshots/delays.png
-
 #The Assingmnet
 
 Read information from a CSV file into pandas, and perform analysis to compare the arrival delays for the
